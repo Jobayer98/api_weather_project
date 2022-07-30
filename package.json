@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "postman-request": "^2.88.1-postman.31"
+  }
+}
